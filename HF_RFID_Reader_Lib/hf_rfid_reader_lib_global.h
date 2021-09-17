@@ -1,0 +1,12 @@
+#ifndef HF_RFID_READER_LIB_GLOBAL_H
+#define HF_RFID_READER_LIB_GLOBAL_H
+
+//#include <QtCore/qglobal.h>
+
+//#if defined(HF_RFID_READER_LIB_LIBRARY)
+//#  define HF_RFID_READER_LIBSHARED_EXPORT Q_DECL_EXPORT
+//#else
+//#  define HF_RFID_READER_LIBSHARED_EXPORT Q_DECL_IMPORT
+//#endif
+
+#endif // HF_RFID_READER_LIB_GLOBAL_H
